@@ -22,12 +22,12 @@ section {
 .contents {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 .contents div {
   width: 400px;
   padding: 25px;
   border: 3px solid #333;
-  margin-top: 30px;
+  margin: 30px;
 }
